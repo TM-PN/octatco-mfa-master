@@ -1,0 +1,3 @@
+[submodule "octatco-mfa-admin-service"]
+	path = octatco-mfa-admin-service
+	url = git@github.com:Octatco-Global-Development-Team/octatco-mfa-admin-service.git
