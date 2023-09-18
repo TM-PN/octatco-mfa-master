@@ -1,3 +1,30 @@
 [submodule "octatco-mfa-admin-service"]
 	path = octatco-mfa-admin-service
 	url = git@github.com:Octatco-Global-Development-Team/octatco-mfa-admin-service.git
+[submodule "octatco-mfa-api-gateway"]
+	path = octatco-mfa-api-gateway
+	url = git@github.com:Octatco-Global-Development-Team/octatco-mfa-api-gateway.git
+[submodule "octatco-mfa-app-service"]
+	path = octatco-mfa-app-service
+	url = git@github.com:Octatco-Global-Development-Team/octatco-mfa-app-service.git
+[submodule "octatco-mfa-error-code"]
+	path = octatco-mfa-error-code
+	url = git@github.com:Octatco-Global-Development-Team/octatco-mfa-error-code.git
+[submodule "octatco-mfa-external-service"]
+	path = octatco-mfa-external-service
+	url = git@github.com:Octatco-Global-Development-Team/octatco-mfa-external-service.git
+[submodule "octatco-mfa-login-service"]
+	path = octatco-mfa-login-service
+	url = git@github.com:Octatco-Global-Development-Team/octatco-mfa-login-service.git
+[submodule "octatco-mfa-manager-frontend"]
+	path = octatco-mfa-manager-frontend
+	url = git@github.com:Octatco-Global-Development-Team/octatco-mfa-manager-frontend.git
+[submodule "octatco-mfa-rp-server"]
+	path = octatco-mfa-rp-server
+	url = git@github.com:Octatco-Global-Development-Team/octatco-mfa-rp-server.git
+[submodule "octatco-mfa-user-frontend"]
+	path = octatco-mfa-user-frontend
+	url = git@github.com:Octatco-Global-Development-Team/octatco-mfa-user-frontend.git
+[submodule "octatco-mfa-user-service"]
+	path = octatco-mfa-user-service
+	url = git@github.com:Octatco-Global-Development-Team/octatco-mfa-user-service.git
