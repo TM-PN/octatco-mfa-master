@@ -28,3 +28,6 @@
 [submodule "octatco-mfa-user-service"]
 	path = octatco-mfa-user-service
 	url = git@github.com:Octatco-Global-Development-Team/octatco-mfa-user-service.git
+[submodule "octatco-mfa-eureka"]
+	path = octatco-mfa-eureka
+	url = git@github.com:Octatco-Global-Development-Team/octatco-mfa-eureka.git
